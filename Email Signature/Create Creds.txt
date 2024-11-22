@@ -1,0 +1,4 @@
+1. Create an app from google workspace
+2. Enable gmail api
+3. Download credentials from OAuth
+4. Save it as credentials.json

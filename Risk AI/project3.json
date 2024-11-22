@@ -1,0 +1,995 @@
+{
+    "projects":
+    [
+        {
+            "id": 1,
+            "name": "Terminal Expansion",
+            "startdate": "2024-01-10",
+            "risks": [
+                "Delays in material supply leading to schedule overruns.",
+                "Cost overruns due to unforeseen structural issues.",
+                "Impact on airport operations during construction.",
+                "Regulatory changes affecting design specifications."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Runway Resurfacing",
+            "startdate": "2024-02-15",
+            "risks": [
+                "Weather-related delays impacting construction timeline.",
+                "Increased maintenance costs for temporary runway closures.",
+                "Potential for accidents during resurfacing operations.",
+                "Loss of revenue due to flight delays or cancellations."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "New Cargo Facility",
+            "startdate": "2024-03-01",
+            "risks": [
+                "Zoning issues delaying project approval.",
+                "Budget constraints leading to scope reduction.",
+                "Challenges in integrating new systems with existing infrastructure.",
+                "Environmental impact assessments causing delays."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Parking Garage Construction",
+            "startdate": "2024-04-05",
+            "risks": [
+                "Limited space leading to logistical challenges.",
+                "Impact on passenger traffic during peak hours.",
+                "Potential for accidents on construction site.",
+                "Changing regulations affecting parking requirements."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Security Upgrade Project",
+            "startdate": "2024-05-10",
+            "risks": [
+                "Cybersecurity threats during system implementation.",
+                "Delays in technology integration with existing systems.",
+                "Staff training challenges on new security protocols.",
+                "Public perception issues due to increased security measures."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Fuel Storage Facility Renovation",
+            "startdate": "2024-06-15",
+            "risks": [
+                "Safety hazards related to hazardous materials.",
+                "Compliance issues with environmental regulations.",
+                "Disruptions to fuel supply chains during renovation.",
+                "Potential delays due to geological issues."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Baggage Handling System Upgrade",
+            "startdate": "2024-07-20",
+            "risks": [
+                "Disruption to passenger flow during installation.",
+                "Integration issues with legacy systems.",
+                "Budget overruns due to unexpected technological challenges.",
+                "Increased operational costs during transition."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "New Boarding Bridges",
+            "startdate": "2024-08-25",
+            "risks": [
+                "Engineering challenges with existing terminal design.",
+                "Potential safety hazards during installation.",
+                "Delays in approvals from regulatory bodies.",
+                "Impact on passenger boarding experience during construction."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Public Transport Access Improvement",
+            "startdate": "2024-09-30",
+            "risks": [
+                "Traffic disruptions affecting airport access.",
+                "Budget constraints leading to project scale reduction.",
+                "Coordination challenges with local authorities.",
+                "Public resistance to construction impacts."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Noise Mitigation Measures",
+            "startdate": "2024-10-05",
+            "risks": [
+                "Community opposition to proposed measures.",
+                "Regulatory changes affecting project scope.",
+                "Delays in obtaining necessary permits.",
+                "Budget overruns due to additional community engagement efforts."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Airport Wi-Fi Network Upgrade",
+            "startdate": "2024-11-01",
+            "risks": [
+                "Technical failures during installation affecting service.",
+                "Incompatibility with existing infrastructure.",
+                "Data security concerns regarding user information.",
+                "Delays in vendor delivery of equipment."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Terminal HVAC System Overhaul",
+            "startdate": "2024-12-10",
+            "risks": [
+                "Disruption to passenger comfort during renovations.",
+                "Budget overruns due to unexpected equipment failures.",
+                "Environmental compliance challenges.",
+                "Potential for long lead times on specialized equipment."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "New Airport Lounge Construction",
+            "startdate": "2025-01-15",
+            "risks": [
+                "Space constraints leading to design challenges.",
+                "Impact on existing services during construction.",
+                "Potential for cost increases due to luxury finishes.",
+                "Delays in contractor performance."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Taxiway Realignment",
+            "startdate": "2025-02-20",
+            "risks": [
+                "Operational delays impacting flight schedules.",
+                "Environmental assessments causing timeline extensions.",
+                "Coordination challenges with air traffic control.",
+                "Potential for unexpected subsurface conditions."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Ground Support Equipment Facility",
+            "startdate": "2025-03-10",
+            "risks": [
+                "Budget constraints leading to reduced facility size.",
+                "Logistical challenges in equipment access.",
+                "Compliance issues with safety regulations.",
+                "Community opposition to increased noise from operations."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Passenger Experience Enhancement Project",
+            "startdate": "2025-04-01",
+            "risks": [
+                "Inability to meet passenger expectations.",
+                "Delays due to supplier issues for new amenities.",
+                "Challenges in staff training for new systems.",
+                "Cost overruns from unanticipated features."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Air Traffic Control Tower Upgrade",
+            "startdate": "2025-05-15",
+            "risks": [
+                "Potential disruptions to air traffic management during transition.",
+                "Technological challenges integrating new systems.",
+                "Budget overruns due to technical complexity.",
+                "Safety hazards during construction phases."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Sustainability Initiatives Implementation",
+            "startdate": "2025-06-20",
+            "risks": [
+                "Regulatory changes affecting sustainability goals.",
+                "Potential for community opposition to new policies.",
+                "Higher upfront costs impacting budget forecasts.",
+                "Challenges in achieving measurable outcomes."
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Emergency Response Center Construction",
+            "startdate": "2025-07-10",
+            "risks": [
+                "Delays in emergency service integration.",
+                "Budget constraints limiting necessary features.",
+                "Coordination with multiple stakeholders.",
+                "Potential safety hazards during construction."
+            ]
+        },
+        {
+            "id": 20,
+            "name": "VIP Terminal Development",
+            "startdate": "2025-08-15",
+            "risks": [
+                "High expectations from clients leading to scope creep.",
+                "Disruption to regular terminal operations during construction.",
+                "Challenges in sourcing luxury materials.",
+                "Delays in regulatory approvals for construction."
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Runway Lighting System Upgrade",
+            "startdate": "2025-09-05",
+            "risks": [
+                "Operational disruptions during installation.",
+                "Potential compatibility issues with existing systems.",
+                "Budget overruns due to unforeseen complications.",
+                "Weather delays impacting construction timelines."
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Emergency Evacuation Route Improvement",
+            "startdate": "2025-10-20",
+            "risks": [
+                "Community resistance to construction impacts.",
+                "Coordination challenges with local emergency services.",
+                "Potential delays in obtaining necessary permits.",
+                "Safety hazards during construction activities."
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Retail Space Revitalization",
+            "startdate": "2025-11-30",
+            "risks": [
+                "Disruption to existing retail operations.",
+                "Budget constraints impacting design quality.",
+                "Delays in vendor deliveries for new retail fixtures.",
+                "Potential for negative passenger feedback during renovations."
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Access Road Widening",
+            "startdate": "2026-01-15",
+            "risks": [
+                "Traffic disruptions impacting airport access.",
+                "Coordination issues with local government projects.",
+                "Environmental assessments causing delays.",
+                "Cost overruns due to land acquisition issues."
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Baggage Claim Area Renovation",
+            "startdate": "2026-02-01",
+            "risks": [
+                "Passenger dissatisfaction during construction.",
+                "Coordination with airlines for operational continuity.",
+                "Potential for increased operational costs during transition.",
+                "Unexpected structural challenges affecting design."
+            ]
+        },
+        {
+            "id": 26,
+            "name": "New Terminal Signage Installation",
+            "startdate": "2026-03-10",
+            "risks": [
+                "Delays in design approvals from regulatory bodies.",
+                "Potential for logistical challenges in installation.",
+                "Impact on passenger flow during installation.",
+                "Budget overruns due to design changes."
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Air Quality Improvement Measures",
+            "startdate": "2026-04-15",
+            "risks": [
+                "Community resistance to new measures.",
+                "Delays in technology deployment.",
+                "Higher-than-expected costs for effective solutions.",
+                "Potential for negative public relations impacts."
+            ]
+        },
+        {
+            "id": 28,
+            "name": "New Security Checkpoint Construction",
+            "startdate": "2026-05-25",
+            "risks": [
+                "Delays due to supply chain issues.",
+                "Coordination with airport security protocols.",
+                "Budget overruns from unexpected design complexities.",
+                "Operational disruptions during construction."
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Parking Lot Surface Repair",
+            "startdate": "2026-06-30",
+            "risks": [
+                "Weather-related delays affecting construction schedule.",
+                "Disruption to passenger parking availability.",
+                "Increased maintenance costs if not done properly.",
+                "Potential for accidents during repair work."
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Multi-Modal Transportation Hub",
+            "startdate": "2026-07-10",
+            "risks": [
+                "Complex integration with existing transportation systems.",
+                "Delays in securing funding for the project.",
+                "Community opposition to the project's footprint.",
+                "Potential for construction delays impacting timelines."
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Centralized Baggage System Implementation",
+            "startdate": "2026-08-15",
+            "risks": [
+                "Integration issues with existing baggage handling systems.",
+                "Operational disruptions during installation.",
+                "Budget overruns due to unforeseen complexities.",
+                "Delays in vendor equipment delivery."
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Airside Infrastructure Improvements",
+            "startdate": "2026-09-10",
+            "risks": [
+                "Construction delays affecting flight operations.",
+                "Unanticipated geological issues during excavation.",
+                "Compliance with updated aviation regulations.",
+                "Potential safety hazards for workers on site."
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Terminal Wayfinding System Update",
+            "startdate": "2026-10-20",
+            "risks": [
+                "Technical issues with new signage technology.",
+                "Passenger confusion during transition to new system.",
+                "Delays in installation affecting passenger flow.",
+                "Budget constraints limiting effective implementation."
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Enhanced Lighting for Runways and Taxiways",
+            "startdate": "2026-11-15",
+            "risks": [
+                "Operational disruptions during installation phases.",
+                "Incompatibility with existing lighting systems.",
+                "Budget overruns due to high-tech installations.",
+                "Weather delays impacting construction schedule."
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Emergency Response Training Facility",
+            "startdate": "2026-12-01",
+            "risks": [
+                "Coordination challenges with multiple agencies.",
+                "Budget limitations affecting facility features.",
+                "Delays in securing necessary permits.",
+                "Potential safety hazards during construction."
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Terminal Retail Space Optimization",
+            "startdate": "2027-01-10",
+            "risks": [
+                "Disruption to existing retail operations.",
+                "Challenges in balancing space for passenger flow and retail.",
+                "Unexpected costs for redesigning existing spaces.",
+                "Negative passenger feedback during renovations."
+            ]
+        },
+        {
+            "id": 37,
+            "name": "VIP Arrival Area Construction",
+            "startdate": "2027-02-15",
+            "risks": [
+                "High expectations leading to scope changes.",
+                "Coordination with multiple stakeholders.",
+                "Delays in luxury finish deliveries.",
+                "Potential disruptions to standard passenger flow."
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Air Cargo Route Optimization",
+            "startdate": "2027-03-01",
+            "risks": [
+                "Coordination issues with logistics companies.",
+                "Potential delays due to regulatory approvals.",
+                "Budget overruns from unexpected logistical challenges.",
+                "Community opposition to increased cargo traffic."
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Sustainable Water Management System",
+            "startdate": "2027-04-10",
+            "risks": [
+                "Delays in technology integration.",
+                "Budget constraints impacting project scope.",
+                "Compliance challenges with environmental regulations.",
+                "Potential for public resistance to new initiatives."
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Maintenance Hangar Expansion",
+            "startdate": "2027-05-15",
+            "risks": [
+                "Operational disruptions during construction.",
+                "Unexpected soil conditions delaying foundation work.",
+                "Coordination challenges with existing operations.",
+                "Budget overruns due to design changes."
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Smart Parking Solutions Implementation",
+            "startdate": "2027-06-20",
+            "risks": [
+                "Technical challenges with smart technology integration.",
+                "User resistance to new parking systems.",
+                "Delays in software development impacting launch.",
+                "Potential for budget overruns from hardware costs."
+            ]
+        },
+        {
+            "id": 42,
+            "name": "Restroom Facility Upgrades",
+            "startdate": "2027-07-25",
+            "risks": [
+                "Disruption to passenger experience during renovations.",
+                "Budget constraints affecting design quality.",
+                "Potential for increased operational costs during construction.",
+                "Logistical challenges in sourcing materials."
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Airport-wide Wi-Fi Expansion",
+            "startdate": "2027-08-30",
+            "risks": [
+                "Technical difficulties during installation.",
+                "Incompatibility with existing infrastructure.",
+                "Budget overruns due to technology upgrades.",
+                "Delays in equipment procurement."
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Enhanced Wildlife Management Program",
+            "startdate": "2027-09-15",
+            "risks": [
+                "Compliance issues with wildlife regulations.",
+                "Community opposition to wildlife control measures.",
+                "Budget constraints limiting effective management solutions.",
+                "Potential safety hazards during implementation."
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Family Assistance Center Construction",
+            "startdate": "2027-10-20",
+            "risks": [
+                "Budget limitations affecting facility features.",
+                "Community resistance to new facilities.",
+                "Delays in securing necessary permits.",
+                "Operational disruptions during construction."
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Power Supply Upgrade Project",
+            "startdate": "2027-11-10",
+            "risks": [
+                "Disruptions to airport operations during upgrades.",
+                "Coordination challenges with utility companies.",
+                "Unexpected costs for infrastructure improvements.",
+                "Delays in technology deployment."
+            ]
+        },
+        {
+            "id": 47,
+            "name": "Multi-Use Sports Complex Development",
+            "startdate": "2027-12-05",
+            "risks": [
+                "Community opposition to land use changes.",
+                "Budget overruns due to design complexities.",
+                "Logistical challenges in site access.",
+                "Potential safety hazards during construction."
+            ]
+        },
+        {
+            "id": 48,
+            "name": "Airport Emergency Preparedness Drills",
+            "startdate": "2028-01-15",
+            "risks": [
+                "Disruption to normal airport operations.",
+                "Coordination challenges with multiple agencies.",
+                "Budget constraints limiting drill effectiveness.",
+                "Potential for negative public perception if not managed well."
+            ]
+        },
+        {
+            "id": 49,
+            "name": "Public Art Installations",
+            "startdate": "2028-02-20",
+            "risks": [
+                "Potential community opposition to art selections.",
+                "Budget overruns due to artistic materials.",
+                "Logistical challenges in installation.",
+                "Delays in approvals from stakeholders."
+            ]
+        },
+        {
+            "id": 50,
+            "name": "Robotics and Automation Integration",
+            "startdate": "2028-03-15",
+            "risks": [
+                "Technical challenges with system integration.",
+                "Potential job displacement concerns from staff.",
+                "Budget overruns from high-tech equipment costs.",
+                "Delays in training staff on new systems."
+            ]
+        },
+        {
+            "id": 51,
+            "name": "Cargo Terminal Automation",
+            "startdate": "2028-04-10",
+            "risks": [
+                "Integration challenges with existing manual processes.",
+                "Disruptions to cargo operations during installation.",
+                "Budget overruns due to unforeseen technical issues.",
+                "Staff resistance to new automated systems."
+            ]
+        },
+        {
+            "id": 52,
+            "name": "Air Quality Monitoring System Installation",
+            "startdate": "2028-05-15",
+            "risks": [
+                "Technical failures in monitoring equipment.",
+                "Regulatory compliance challenges.",
+                "Potential budget overruns from specialized equipment.",
+                "Delays in securing necessary permits."
+            ]
+        },
+        {
+            "id": 53,
+            "name": "Runway Safety Area Enhancements",
+            "startdate": "2028-06-20",
+            "risks": [
+                "Operational disruptions during construction.",
+                "Budget constraints impacting project scope.",
+                "Potential regulatory changes affecting safety standards.",
+                "Weather delays impacting construction schedules."
+            ]
+        },
+        {
+            "id": 54,
+            "name": "New Ground Transportation Center",
+            "startdate": "2028-07-25",
+            "risks": [
+                "Delays in coordination with local transit authorities.",
+                "Budget overruns due to design complexities.",
+                "Community opposition to increased traffic.",
+                "Potential construction hazards on site."
+            ]
+        },
+        {
+            "id": 55,
+            "name": "Tarmac Rehabilitation Project",
+            "startdate": "2028-08-30",
+            "risks": [
+                "Operational disruptions during heavy usage periods.",
+                "Delays due to weather conditions.",
+                "Increased maintenance costs if repairs are inadequate.",
+                "Logistical challenges in managing aircraft movements."
+            ]
+        },
+        {
+            "id": 56,
+            "name": "VIP Parking Lot Construction",
+            "startdate": "2028-09-15",
+            "risks": [
+                "Budget constraints affecting design quality.",
+                "Potential for traffic congestion during peak hours.",
+                "Community resistance to changes in airport footprint.",
+                "Delays in construction due to regulatory approvals."
+            ]
+        },
+        {
+            "id": 57,
+            "name": "Digital Customer Service Kiosks Deployment",
+            "startdate": "2028-10-20",
+            "risks": [
+                "Technical failures impacting user experience.",
+                "Potential for inadequate staff training on new systems.",
+                "Budget overruns from equipment costs.",
+                "Passenger resistance to using kiosks over human interaction."
+            ]
+        },
+        {
+            "id": 58,
+            "name": "New Flight Operations Center",
+            "startdate": "2028-11-10",
+            "risks": [
+                "Operational disruptions during transition periods.",
+                "Challenges in securing funding for the project.",
+                "Integration issues with existing systems.",
+                "Potential safety hazards during construction."
+            ]
+        },
+        {
+            "id": 59,
+            "name": "Enhanced Customs Facilities",
+            "startdate": "2028-12-15",
+            "risks": [
+                "Delays in regulatory approvals.",
+                "Budget constraints impacting facility features.",
+                "Potential operational disruptions during renovations.",
+                "Challenges in staffing new facilities effectively."
+            ]
+        },
+        {
+            "id": 60,
+            "name": "Security Screening Technology Upgrade",
+            "startdate": "2029-01-10",
+            "risks": [
+                "Integration challenges with existing systems.",
+                "Delays in equipment delivery affecting timelines.",
+                "Potential operational disruptions during installation.",
+                "Budget overruns due to technology costs."
+            ]
+        },
+        {
+            "id": 61,
+            "name": "Weather Monitoring System Upgrade",
+            "startdate": "2029-02-15",
+            "risks": [
+                "Technical challenges in integrating new technology.",
+                "Potential for delays in data collection during upgrades.",
+                "Budget constraints affecting comprehensive solutions.",
+                "Incompatibility with existing weather systems."
+            ]
+        },
+        {
+            "id": 62,
+            "name": "Runway Surface Drainage Improvement",
+            "startdate": "2029-03-20",
+            "risks": [
+                "Delays due to unexpected subsoil conditions.",
+                "Operational disruptions during peak usage.",
+                "Budget overruns from necessary design modifications.",
+                "Potential regulatory changes affecting construction."
+            ]
+        },
+        {
+            "id": 63,
+            "name": "Family Assistance Programs Expansion",
+            "startdate": "2029-04-25",
+            "risks": [
+                "Community opposition to program changes.",
+                "Budget constraints limiting effectiveness.",
+                "Logistical challenges in program implementation.",
+                "Potential negative publicity if services are inadequate."
+            ]
+        },
+        {
+            "id": 64,
+            "name": "Baggage Claim Area Security Enhancements",
+            "startdate": "2029-05-30",
+            "risks": [
+                "Delays in technology integration.",
+                "Operational disruptions during construction.",
+                "Budget overruns from additional security features.",
+                "Staff training challenges on new protocols."
+            ]
+        },
+        {
+            "id": 65,
+            "name": "Improved Public Transport Connections",
+            "startdate": "2029-06-10",
+            "risks": [
+                "Delays due to coordination with local transport agencies.",
+                "Community opposition to new routes.",
+                "Budget constraints impacting service quality.",
+                "Logistical challenges during construction."
+            ]
+        },
+        {
+            "id": 66,
+            "name": "Sustainable Energy Solutions Implementation",
+            "startdate": "2029-07-15",
+            "risks": [
+                "Regulatory compliance challenges with new energy sources.",
+                "Community resistance to renewable energy initiatives.",
+                "Potential for budget overruns from technology costs.",
+                "Delays in installation impacting timelines."
+            ]
+        },
+        {
+            "id": 67,
+            "name": "Enhanced Luggage Tracking System",
+            "startdate": "2029-08-20",
+            "risks": [
+                "Technical failures impacting passenger experience.",
+                "Integration challenges with existing systems.",
+                "Budget overruns due to software development issues.",
+                "Potential delays in deployment affecting operations."
+            ]
+        },
+        {
+            "id": 68,
+            "name": "Expanded Medical Assistance Facilities",
+            "startdate": "2029-09-25",
+            "risks": [
+                "Budget constraints affecting facility features.",
+                "Coordination challenges with healthcare providers.",
+                "Operational disruptions during construction.",
+                "Delays in securing necessary health regulations."
+            ]
+        },
+        {
+            "id": 69,
+            "name": "Enhanced Internet of Things (IoT) Integration",
+            "startdate": "2029-10-30",
+            "risks": [
+                "Technical challenges with IoT device compatibility.",
+                "Data security concerns with increased connectivity.",
+                "Budget overruns from new technology costs.",
+                "Potential for operational disruptions during integration."
+            ]
+        },
+        {
+            "id": 70,
+            "name": "Baggage Drop-Off Automation",
+            "startdate": "2029-11-15",
+            "risks": [
+                "Technical issues with automated systems.",
+                "Staff resistance to automation changes.",
+                "Budget overruns from unanticipated costs.",
+                "Operational disruptions during transition periods."
+            ]
+        },
+        {
+            "id": 71,
+            "name": "Integrated Flight Information Display System",
+            "startdate": "2029-12-10",
+            "risks": [
+                "Technical failures impacting passenger information.",
+                "Delays in system integration with existing displays.",
+                "Budget overruns due to software complexity.",
+                "Potential training challenges for staff on new systems."
+            ]
+        },
+        {
+            "id": 72,
+            "name": "Sustainable Waste Management System",
+            "startdate": "2030-01-15",
+            "risks": [
+                "Regulatory compliance challenges with waste disposal.",
+                "Community opposition to waste processing methods.",
+                "Budget constraints limiting effectiveness of solutions.",
+                "Potential for operational disruptions during implementation."
+            ]
+        },
+        {
+            "id": 73,
+            "name": "Enhanced Noise Barrier Installation",
+            "startdate": "2030-02-20",
+            "risks": [
+                "Community resistance to installation locations.",
+                "Delays in securing necessary permits.",
+                "Budget overruns due to construction complexities.",
+                "Impact on airport operations during construction."
+            ]
+        },
+        {
+            "id": 74,
+            "name": "Digital Queue Management System",
+            "startdate": "2030-03-25",
+            "risks": [
+                "Technical difficulties in implementation.",
+                "Resistance from passengers to new systems.",
+                "Budget overruns from unexpected software costs.",
+                "Operational disruptions during system transition."
+            ]
+        },
+        {
+            "id": 75,
+            "name": "Catering Facility Renovation",
+            "startdate": "2030-04-30",
+            "risks": [
+                "Delays in food service affecting operations.",
+                "Compliance challenges with health regulations.",
+                "Budget constraints impacting renovations.",
+                "Potential safety hazards during construction."
+            ]
+        },
+        {
+            "id": 76,
+            "name": "Automated Passport Control Kiosks Installation",
+            "startdate": "2030-05-15",
+            "risks": [
+                "Technical failures during installation.",
+                "Delays in equipment delivery affecting timelines.",
+                "Budget overruns from unanticipated costs.",
+                "Potential passenger dissatisfaction with automated systems."
+            ]
+        },
+        {
+            "id": 77,
+            "name": "Expanded Customs and Immigration Processing Areas",
+            "startdate": "2030-06-20",
+            "risks": [
+                "Delays in regulatory approvals impacting timeline.",
+                "Budget constraints limiting facility scope.",
+                "Operational disruptions during construction.",
+                "Challenges in staffing new processing areas."
+            ]
+        },
+        {
+            "id": 78,
+            "name": "Enhanced Safety Training Facility",
+            "startdate": "2030-07-25",
+            "risks": [
+                "Budget constraints affecting training program quality.",
+                "Logistical challenges in facility construction.",
+                "Coordination issues with multiple stakeholders.",
+                "Potential safety hazards during construction."
+            ]
+        },
+        {
+            "id": 79,
+            "name": "Public Transport Integration Improvements",
+            "startdate": "2030-08-30",
+            "risks": [
+                "Delays in coordination with transport agencies.",
+                "Community opposition to changes in traffic patterns.",
+                "Budget constraints impacting project scope.",
+                "Logistical challenges during construction."
+            ]
+        },
+        {
+            "id": 80,
+            "name": "Runway Pavement Strengthening",
+            "startdate": "2030-09-15",
+            "risks": [
+                "Operational disruptions during peak flight hours.",
+                "Delays due to unexpected subsoil conditions.",
+                "Budget overruns from material cost increases.",
+                "Potential regulatory challenges during implementation."
+            ]
+        },
+        {
+            "id": 81,
+            "name": "Airport Fire Safety Enhancements",
+            "startdate": "2030-10-20",
+            "risks": [
+                "Compliance issues with updated fire safety regulations.",
+                "Budget constraints limiting effective upgrades.",
+                "Potential for operational disruptions during installation.",
+                "Training challenges for staff on new systems."
+            ]
+        },
+        {
+            "id": 82,
+            "name": "Innovative Terminal Design Competition",
+            "startdate": "2030-11-10",
+            "risks": [
+                "Community opposition to proposed designs.",
+                "Budget overruns from unforeseen design complexities.",
+                "Delays in finalizing winning designs.",
+                "Potential safety issues during construction of new designs."
+            ]
+        },
+        {
+            "id": 83,
+            "name": "Integrated Health Services Center",
+            "startdate": "2030-12-15",
+            "risks": [
+                "Challenges in securing health service partnerships.",
+                "Budget constraints affecting facility quality.",
+                "Operational disruptions during construction.",
+                "Regulatory compliance challenges."
+            ]
+        },
+        {
+            "id": 84,
+            "name": "Virtual Reality Training for Staff",
+            "startdate": "2031-01-20",
+            "risks": [
+                "Technical challenges with VR technology.",
+                "Resistance from staff to new training methods.",
+                "Budget overruns from software development costs.",
+                "Potential effectiveness issues with new training."
+            ]
+        },
+        {
+            "id": 85,
+            "name": "Enhanced Data Analytics for Operations",
+            "startdate": "2031-02-25",
+            "risks": [
+                "Technical difficulties in system integration.",
+                "Budget overruns from data infrastructure costs.",
+                "Staff training challenges on new analytics systems.",
+                "Potential data security issues."
+            ]
+        },
+        {
+            "id": 86,
+            "name": "Sustainable Landscaping Initiatives",
+            "startdate": "2031-03-30",
+            "risks": [
+                "Community opposition to landscaping changes.",
+                "Budget constraints affecting project scope.",
+                "Potential environmental compliance challenges.",
+                "Logistical challenges in sourcing materials."
+            ]
+        },
+        {
+            "id": 87,
+            "name": "Improved Passenger Experience Programs",
+            "startdate": "2031-04-15",
+            "risks": [
+                "Delays in implementation affecting passenger satisfaction.",
+                "Budget overruns from unanticipated program costs.",
+                "Staff training challenges on new initiatives.",
+                "Community resistance to changes in services."
+            ]
+        },
+        {
+            "id": 88,
+            "name": "Emergency Evacuation Simulation Drills",
+            "startdate": "2031-05-20",
+            "risks": [
+                "Disruption to normal airport operations.",
+                "Coordination challenges with multiple agencies.",
+                "Budget constraints affecting drill effectiveness.",
+                "Potential negative publicity if drills are mishandled."
+            ]
+        },
+        {
+            "id": 89,
+            "name": "Multi-Lingual Signage Installation",
+            "startdate": "2031-06-25",
+            "risks": [
+                "Delays in design approvals for new signage.",
+                "Budget constraints limiting implementation quality.",
+                "Potential for logistical challenges during installation.",
+                "Community opposition to design choices."
+            ]
+        },
+        {
+            "id": 90,
+            "name": "Mobile App Development for Passenger Services",
+            "startdate": "2031-07-30",
+            "risks": [
+                "Technical difficulties in app functionality.",
+                "User resistance to app adoption.",
+                "Budget overruns from unexpected development costs.",
+                "Potential data security concerns with user information."
+            ]
+        }
+    ]
+}

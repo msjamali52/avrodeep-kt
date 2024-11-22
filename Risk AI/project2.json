@@ -1,0 +1,1205 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Constructing a Building",
+      "startDate": "2024-01-15",
+      "risks": [
+        "Budget overruns may occur due to unforeseen costs associated with materials and labor shortages.",
+        "Delays in construction could arise from inclement weather or disruptions in the supply chain.",
+        "Failure to comply with regulatory requirements can lead to project stoppages and fines.",
+        "Safety hazards on site can result in accidents, leading to injuries and project delays.",
+        "Supply chain disruptions can hinder the timely delivery of essential construction materials."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Manufacturing Airplane",
+      "startDate": "2024-02-01",
+      "risks": [
+        "Technical failures during testing phases may result in significant redesigns and increased costs.",
+        "Supply chain delays can impact production schedules, potentially leading to missed delivery deadlines.",
+        "Regulatory approval delays can prevent timely market entry, affecting competitive positioning.",
+        "Cost overruns may result from unexpected technical challenges or increased labor costs.",
+        "Quality control issues can lead to safety concerns and costly recalls if not identified early."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Setting Up Security System",
+      "startDate": "2024-03-10",
+      "risks": [
+        "Inadequate threat assessment may lead to vulnerabilities that compromise system effectiveness.",
+        "Technical malfunctions could render security measures ineffective during critical incidents.",
+        "User resistance to new systems can hinder adoption and diminish overall security effectiveness.",
+        "Cybersecurity threats may exploit system weaknesses, leading to data breaches or system failures.",
+        "Budget constraints might limit the quality and extent of the security measures implemented."
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Developing Software Application",
+      "startDate": "2024-04-05",
+      "risks": [
+        "Scope creep can occur if project requirements are not clearly defined, leading to additional costs and delays.",
+        "Accumulation of technical debt may hinder future development and increase maintenance costs.",
+        "Data security breaches could expose sensitive information, resulting in legal and reputational damage.",
+        "Poor user adoption can stem from a lack of user-centered design and inadequate training.",
+        "Integration issues with existing systems may lead to project delays and additional costs."
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Launching a Marketing Campaign",
+      "startDate": "2024-05-20",
+      "risks": [
+        "Target audience misidentification can lead to ineffective messaging and wasted resources.",
+        "Budget mismanagement may result in insufficient funds to reach key milestones of the campaign.",
+        "Negative publicity can arise from miscommunication or backlash, damaging brand reputation.",
+        "Ineffective messaging may fail to resonate with the audience, leading to low engagement.",
+        "Compliance with advertising regulations is critical; non-compliance can result in legal repercussions."
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Implementing an ERP System",
+      "startDate": "2024-06-15",
+      "risks": [
+        "Resistance to change from employees can impede the successful implementation of the ERP system.",
+        "Data migration issues may lead to loss or corruption of critical business data during the transition.",
+        "Underestimating training needs can result in poor user proficiency and hinder system effectiveness.",
+        "Budget overruns can occur due to unexpected complications in the implementation process.",
+        "Vendor reliability issues may lead to delays in support and updates necessary for system functionality."
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Establishing a Research Lab",
+      "startDate": "2024-07-01",
+      "risks": [
+        "Funding shortfalls may jeopardize the completion of the research lab and its operational capability.",
+        "Recruiting qualified staff can be challenging, leading to delays in research initiatives.",
+        "Regulatory compliance failures could result in legal challenges and hinder lab operations.",
+        "Equipment failures can disrupt research activities and lead to significant delays in project timelines.",
+        "Intellectual property issues may arise, complicating collaborations and research outcomes."
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Organizing a Conference",
+      "startDate": "2024-08-10",
+      "risks": [
+        "Low attendance can lead to revenue shortfalls and diminish the perceived value of the event.",
+        "Budget constraints may limit venue options and the quality of conference materials.",
+        "Technical failures during presentations can disrupt sessions and frustrate attendees.",
+        "Logistical challenges may arise in organizing speakers, materials, and schedules effectively.",
+        "Speaker cancellations can create gaps in the agenda, affecting the overall conference experience."
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Developing an E-commerce Platform",
+      "startDate": "2024-09-01",
+      "risks": [
+        "Cybersecurity threats can lead to data breaches, compromising customer trust and safety.",
+        "Payment processing failures can result in lost sales and customer dissatisfaction.",
+        "User experience issues can lead to high abandonment rates and low conversion rates.",
+        "Integration problems with existing systems may hinder functionality and complicate operations.",
+        "Inventory management challenges can lead to stockouts or overstock situations, impacting sales."
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Building a Renewable Energy Plant",
+      "startDate": "2024-10-05",
+      "risks": [
+        "Environmental compliance issues may arise, potentially delaying the project due to regulatory scrutiny.",
+        "Technological challenges can complicate the integration of renewable energy solutions.",
+        "Public opposition to the project may lead to protests or legal challenges that affect timelines.",
+        "Funding delays can disrupt project cash flow and hinder timely completion.",
+        "Market demand fluctuations can affect the viability of the energy produced, impacting revenue."
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Creating a Mobile App",
+      "startDate": "2024-11-01",
+      "risks": [
+        "User experience problems can lead to low adoption rates and negative reviews.",
+        "Market competition can hinder visibility and make it difficult to attract users.",
+        "Technical bugs may result in app crashes or functionality issues, frustrating users.",
+        "Budget constraints may limit marketing efforts and development resources.",
+        "Data privacy concerns can deter users from downloading the app, affecting user base growth."
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Constructing a Bridge",
+      "startDate": "2024-12-15",
+      "risks": [
+        "Geotechnical issues can complicate the foundation work, leading to project delays.",
+        "Weather delays may impact construction timelines and increase costs.",
+        "Budget overruns can occur due to unexpected expenses associated with materials and labor.",
+        "Safety hazards during construction can result in accidents, increasing liability risks.",
+        "Failure to secure necessary regulatory approvals can halt project progress and incur penalties."
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Developing a Video Game",
+      "startDate": "2025-01-20",
+      "risks": [
+        "Creative differences among team members can lead to conflicts and delays in development.",
+        "Technical challenges during development may lead to increased costs and extended timelines.",
+        "Market trends may shift, causing the game to lose relevance by the time of release.",
+        "Budget constraints can limit resources for quality assurance and marketing efforts.",
+        "Quality assurance failures can result in a subpar product that fails to meet player expectations."
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Launching a New Product",
+      "startDate": "2025-02-10",
+      "risks": [
+        "Market research failures can lead to a mismatch between the product and consumer needs.",
+        "Production delays can impact launch schedules and market entry timing.",
+        "Supply chain issues may disrupt the availability of critical components, affecting production.",
+        "Poor customer reception can stem from inadequate marketing or product expectations.",
+        "Budget overruns may occur due to unforeseen costs in production or marketing."
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Setting Up an Online Course",
+      "startDate": "2025-03-05",
+      "risks": [
+        "Low enrollment rates can result in insufficient revenue to cover costs and sustain the program.",
+        "Technical issues during course delivery can frustrate students and lead to negative feedback.",
+        "Content quality may not meet learner expectations, affecting engagement and completion rates.",
+        "Marketing challenges can hinder visibility and reach, limiting potential student enrollment.",
+        "Compliance with educational standards is crucial; non-compliance can result in legal issues."
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Building a Shopping Mall",
+      "startDate": "2025-04-01",
+      "risks": [
+        "Market demand changes can affect the viability of the mall and tenant attraction.",
+        "Construction delays can result from permit issues or labor shortages, increasing costs.",
+        "Regulatory compliance failures can halt construction or lead to fines and legal issues.",
+        "Financing issues may arise if investor confidence diminishes during the project.",
+        "Competition from online retail can impact foot traffic and tenant success once operational."
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Developing a CRM System",
+      "startDate": "2025-05-01",
+      "risks": [
+        "Integration issues with existing systems may complicate implementation and hinder user adoption.",
+        "Poor user interface design can lead to low employee engagement and usage of the system.",
+        "Data privacy concerns can arise, potentially leading to legal challenges and reputational damage.",
+        "Underestimating training needs can result in low proficiency and ineffective usage.",
+        "Budget constraints may limit functionality and scalability of the CRM system."
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Creating a Fitness Program",
+      "startDate": "2025-06-01",
+      "risks": [
+        "Insufficient market research can lead to a program that does not meet client needs.",
+        "Low enrollment may hinder the program's viability and profitability.",
+        "Instructor availability may be limited, affecting program quality and delivery.",
+        "Compliance with health regulations is critical; non-compliance can lead to legal issues.",
+        "Competition from existing programs may make it challenging to attract participants."
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Implementing a Telemedicine Service",
+      "startDate": "2025-07-01",
+      "risks": [
+        "Regulatory compliance issues can lead to legal challenges and service delays.",
+        "Technological failures can disrupt service delivery, affecting patient trust and engagement.",
+        "Low user adoption may stem from insufficient marketing and awareness efforts.",
+        "Data privacy concerns can deter patients from using the service, impacting enrollment.",
+        "Integration issues with existing healthcare systems may complicate data management."
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Launching a Food Delivery Service",
+      "startDate": "2025-08-01",
+      "risks": [
+        "Market competition may make it difficult to attract and retain customers.",
+        "Logistical challenges can lead to delivery delays, impacting customer satisfaction.",
+        "Budget overruns may arise from unanticipated operational costs and marketing expenses.",
+        "Partnership issues with restaurants may hinder menu variety and service quality.",
+        "Technology failures in the app or website can lead to loss of orders and revenue."
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Creating a Podcast Series",
+      "startDate": "2025-09-01",
+      "risks": [
+        "Low listener engagement can result from insufficient marketing and promotion strategies.",
+        "Content quality issues may lead to negative feedback and reduced audience retention.",
+        "Technical difficulties during recording or editing can impact production schedules.",
+        "Market competition may hinder visibility and make it difficult to grow the listener base.",
+        "Funding shortages can limit promotional efforts and production quality."
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Building an Urban Park",
+      "startDate": "2025-10-01",
+      "risks": [
+        "Community opposition can lead to delays or changes in project scope.",
+        "Environmental compliance issues may arise, impacting project timelines.",
+        "Budget constraints may limit the scope and quality of park facilities and features.",
+        "Weather delays can affect construction schedules and overall project completion.",
+        "Safety concerns during construction may lead to accidents and increased liability."
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Establishing a Non-Profit Organization",
+      "startDate": "2025-11-01",
+      "risks": [
+        "Funding challenges can limit operational capacity and program development.",
+        "Regulatory compliance failures can lead to legal issues and hinder operations.",
+        "Recruiting volunteers and staff may be difficult, impacting program delivery.",
+        "Public perception issues may affect fundraising efforts and community support.",
+        "Mission drift can occur if the organization fails to stay focused on its objectives."
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Creating an Online Marketplace",
+      "startDate": "2025-12-01",
+      "risks": [
+        "Cybersecurity threats can compromise user data, leading to loss of trust.",
+        "Vendor onboarding issues can limit product variety and customer satisfaction.",
+        "Technical glitches on the platform may disrupt transactions and user experience.",
+        "Market competition can impact visibility and hinder user acquisition.",
+        "Regulatory compliance issues may arise, leading to legal repercussions."
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Developing a Sustainable Farming Initiative",
+      "startDate": "2026-01-01",
+      "risks": [
+        "Climate change impacts can affect crop yields and project viability.",
+        "Market demand fluctuations may affect profitability and sustainability.",
+        "Funding shortfalls can hinder implementation and operational capacity.",
+        "Regulatory compliance failures can lead to legal challenges and operational disruptions.",
+        "Community engagement issues may affect project support and participation."
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Launching a Fitness App",
+      "startDate": "2026-02-01",
+      "risks": [
+        "User experience issues can lead to low adoption rates and negative reviews.",
+        "Market saturation may hinder visibility and growth potential.",
+        "Technical bugs may result in app crashes, frustrating users.",
+        "Data privacy concerns can deter users from downloading and using the app.",
+        "Budget constraints may limit marketing efforts and feature development."
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Developing an AI-based Chatbot",
+      "startDate": "2026-03-01",
+      "risks": [
+        "Technical challenges may arise during development, impacting timelines.",
+        "User adoption may be hindered by poor design or functionality issues.",
+        "Data security vulnerabilities can lead to breaches and loss of user trust.",
+        "Integration issues with existing systems may complicate deployment.",
+        "Market competition can make it challenging to differentiate the product."
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Creating a Virtual Reality Experience",
+      "startDate": "2026-04-01",
+      "risks": [
+        "Technical limitations may hinder the quality and performance of the VR experience.",
+        "Market trends may shift, causing the product to lose relevance by the time of release.",
+        "Budget overruns may occur due to unanticipated development challenges.",
+        "User experience issues can lead to negative feedback and low engagement.",
+        "Regulatory compliance concerns may arise, particularly in content delivery."
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Establishing a Social Media Platform",
+      "startDate": "2026-05-01",
+      "risks": [
+        "User privacy concerns can lead to low adoption rates and backlash.",
+        "Technical issues may disrupt platform functionality, frustrating users.",
+        "Market competition can make it difficult to attract and retain users.",
+        "Content moderation challenges may lead to reputational damage and legal issues.",
+        "Funding shortages may limit development and marketing efforts."
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Organizing a Charity Event",
+      "startDate": "2026-06-01",
+      "risks": [
+        "Low attendance can result in revenue shortfalls and diminished impact.",
+        "Budget mismanagement may limit resources for promotion and logistics.",
+        "Negative publicity can arise from poor event management or miscommunication.",
+        "Weather-related issues can disrupt outdoor events and impact attendance.",
+        "Volunteer engagement may be low, affecting event execution and quality."
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Developing a Smart Home Device",
+      "startDate": "2026-07-01",
+      "risks": [
+        "Technological challenges may hinder product functionality and reliability.",
+        "Market saturation can make it difficult to stand out among competitors.",
+        "Data security vulnerabilities can lead to breaches and loss of customer trust.",
+        "User adoption may be affected by a steep learning curve or usability issues.",
+        "Supply chain disruptions can delay production and delivery timelines."
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Creating an E-Learning Platform",
+      "startDate": "2026-08-01",
+      "risks": [
+        "Technical difficulties may disrupt user experience and course delivery.",
+        "Market competition can impact user acquisition and retention rates.",
+        "Content quality issues can lead to negative feedback and low enrollment.",
+        "Regulatory compliance failures may arise, leading to legal challenges.",
+        "Funding limitations can restrict platform development and marketing efforts."
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Launching a Mobile Game",
+      "startDate": "2026-09-01",
+      "risks": [
+        "Market trends may shift, affecting the game's popularity upon release.",
+        "Technical bugs may lead to negative reviews and user dissatisfaction.",
+        "Monetization challenges can affect profitability and sustainability.",
+        "Intellectual property issues may arise if the game resembles existing products.",
+        "User engagement may be low due to lack of compelling content or features."
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Building a Community Center",
+      "startDate": "2026-10-01",
+      "risks": [
+        "Community opposition can delay project approval and development.",
+        "Budget constraints may limit facility features and community programs.",
+        "Safety concerns during construction can lead to accidents and liability.",
+        "Regulatory compliance issues may arise, affecting project timelines.",
+        "Operational challenges can occur if there is insufficient staffing and resources."
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Creating a Subscription Box Service",
+      "startDate": "2026-11-01",
+      "risks": [
+        "Market competition can hinder customer acquisition and retention.",
+        "Supply chain issues may disrupt product sourcing and delivery timelines.",
+        "Customer dissatisfaction can result from inconsistent quality or selection.",
+        "Marketing failures may limit brand visibility and customer interest.",
+        "Regulatory compliance challenges can arise related to product safety."
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Launching a Renewable Energy Project",
+      "startDate": "2026-12-01",
+      "risks": [
+        "Regulatory hurdles may delay project approval and implementation.",
+        "Funding shortfalls can limit project scope and operational capacity.",
+        "Technical challenges may arise in the installation and maintenance phases.",
+        "Market fluctuations can affect profitability and long-term viability.",
+        "Community opposition may arise due to environmental concerns or location."
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Creating a Fitness Studio",
+      "startDate": "2027-01-01",
+      "risks": [
+        "Low membership enrollment can lead to financial instability.",
+        "Competition from existing gyms and studios may hinder market entry.",
+        "Operational challenges may arise from staffing and management issues.",
+        "Customer satisfaction can suffer from inadequate facilities or services.",
+        "Regulatory compliance failures may result in legal challenges."
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Developing an Art Installation",
+      "startDate": "2027-02-01",
+      "risks": [
+        "Budget overruns can limit artistic vision and project execution.",
+        "Community opposition may arise regarding the location or concept.",
+        "Logistical challenges can impact installation timelines and quality.",
+        "Safety concerns during installation may lead to accidents.",
+        "Market trends may shift, affecting the installation’s relevance."
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Launching a Mobile Payment App",
+      "startDate": "2027-03-01",
+      "risks": [
+        "Cybersecurity threats can compromise user data and financial information.",
+        "User adoption may be hindered by usability issues or market competition.",
+        "Regulatory compliance failures can lead to legal repercussions.",
+        "Technical glitches may disrupt transactions, frustrating users.",
+        "Funding limitations can restrict marketing and feature development."
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Creating a Local News Website",
+      "startDate": "2027-04-01",
+      "risks": [
+        "Low readership can hinder revenue generation and sustainability.",
+        "Competition from established media outlets may affect visibility.",
+        "Content quality issues can lead to negative feedback and loss of audience.",
+        "Funding shortfalls can limit operational capacity and resources.",
+        "Regulatory challenges may arise regarding content and advertising."
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Developing a Virtual Reality Experience",
+      "startDate": "2027-05-01",
+      "risks": [
+        "High development costs may exceed budget projections.",
+        "Technological limitations can hinder user experience and engagement.",
+        "Market interest may fluctuate, affecting potential sales.",
+        "Content creation challenges may delay project timelines.",
+        "User safety concerns may arise during VR interactions."
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Launching a Food Delivery Service",
+      "startDate": "2027-06-01",
+      "risks": [
+        "Intense market competition can limit growth opportunities.",
+        "Logistical challenges may impact delivery efficiency and customer satisfaction.",
+        "Regulatory compliance issues may arise related to food safety.",
+        "Supply chain disruptions can affect food sourcing and quality.",
+        "Customer retention may suffer from inconsistent service levels."
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Creating a Travel Booking App",
+      "startDate": "2027-07-01",
+      "risks": [
+        "Technological glitches may frustrate users and lead to negative reviews.",
+        "Market trends can shift, impacting demand for travel services.",
+        "Partnership issues with travel providers may affect service offerings.",
+        "User trust can be compromised by data security concerns.",
+        "Regulatory compliance challenges may arise in different markets."
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Building an Eco-Friendly Housing Development",
+      "startDate": "2027-08-01",
+      "risks": [
+        "Regulatory hurdles may delay construction timelines.",
+        "Budget constraints can limit the implementation of green technologies.",
+        "Community opposition may arise regarding design and impact.",
+        "Supply chain issues can affect sourcing of sustainable materials.",
+        "Market demand may fluctuate, impacting sales and profitability."
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Launching a Podcast Network",
+      "startDate": "2027-09-01",
+      "risks": [
+        "Market saturation can make it difficult to attract listeners.",
+        "Content quality issues may lead to low engagement and ratings.",
+        "Monetization challenges can affect financial sustainability.",
+        "Technical difficulties may disrupt production and distribution.",
+        "Partnership conflicts can hinder growth and collaboration."
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Creating an Online Marketplace",
+      "startDate": "2027-10-01",
+      "risks": [
+        "High competition can hinder market penetration and user acquisition.",
+        "User trust issues may arise from fraud or poor customer service.",
+        "Technical challenges can disrupt user experience and site functionality.",
+        "Regulatory compliance may present challenges in various regions.",
+        "Funding limitations can restrict marketing and platform enhancements."
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Developing an AI-Powered Chatbot",
+      "startDate": "2027-11-01",
+      "risks": [
+        "Technical limitations may hinder the chatbot's effectiveness.",
+        "User adoption may be slow due to skepticism of AI solutions.",
+        "Data privacy concerns can impact user trust and engagement.",
+        "Market competition may lead to challenges in differentiation.",
+        "Budget constraints may limit development and improvement efforts."
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Launching a Health and Wellness Blog",
+      "startDate": "2027-12-01",
+      "risks": [
+        "Low readership may impact monetization efforts.",
+        "Content quality issues can lead to negative audience feedback.",
+        "Market saturation can make it difficult to grow a loyal audience.",
+        "Regulatory compliance issues may arise with health-related content.",
+        "Funding shortfalls can limit marketing and content development."
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Building a Smart City Infrastructure",
+      "startDate": "2028-01-01",
+      "risks": [
+        "High costs may exceed budget estimates and lead to funding challenges.",
+        "Technological integration issues can hinder project effectiveness.",
+        "Public resistance may arise due to privacy and surveillance concerns.",
+        "Regulatory hurdles can delay project timelines and implementation.",
+        "Partnership challenges with technology providers may affect progress."
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Creating a Children's Educational App",
+      "startDate": "2028-02-01",
+      "risks": [
+        "Market competition can limit user acquisition and retention.",
+        "Content quality and age-appropriateness can affect credibility.",
+        "Technological challenges may disrupt user experience.",
+        "User trust may be compromised by data privacy concerns.",
+        "Funding limitations may restrict marketing and feature enhancements."
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Establishing a Renewable Energy Cooperative",
+      "startDate": "2028-03-01",
+      "risks": [
+        "Regulatory changes can impact project viability and funding.",
+        "Community engagement issues may lead to resistance.",
+        "Market fluctuations in energy prices can affect financial stability.",
+        "Technical challenges may arise in implementation and maintenance.",
+        "Funding constraints can limit initial setup and expansion efforts."
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Launching a Mobile Fitness App",
+      "startDate": "2028-04-01",
+      "risks": [
+        "Intense market competition may hinder user acquisition.",
+        "User engagement may drop due to lack of innovative features.",
+        "Technical issues can disrupt user experience and app functionality.",
+        "Data privacy concerns can affect user trust and adoption.",
+        "Funding limitations can restrict marketing efforts and updates."
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Creating a Digital Art Gallery",
+      "startDate": "2028-05-01",
+      "risks": [
+        "Market interest may fluctuate, impacting visitor numbers.",
+        "Technical challenges can hinder website performance.",
+        "Partnership issues with artists can affect content diversity.",
+        "Funding constraints may limit promotional activities.",
+        "Legal issues may arise regarding copyright and ownership."
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Developing an E-Learning Platform for Professionals",
+      "startDate": "2028-06-01",
+      "risks": [
+        "Market competition can limit user growth and engagement.",
+        "Content quality issues may lead to poor user feedback.",
+        "Technological challenges may disrupt course delivery.",
+        "Regulatory compliance can complicate content offerings.",
+        "Funding shortfalls may restrict platform enhancements."
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Launching a Subscription Box Service",
+      "startDate": "2028-07-01",
+      "risks": [
+        "High customer acquisition costs can impact profitability.",
+        "Market saturation may lead to increased competition.",
+        "Logistical challenges can disrupt timely delivery.",
+        "Customer churn may increase if offerings are not compelling.",
+        "Supply chain issues can affect product quality and availability."
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Creating an AI-Based Personal Finance Tool",
+      "startDate": "2028-08-01",
+      "risks": [
+        "User adoption may be slow due to skepticism about AI.",
+        "Data privacy concerns can deter potential users.",
+        "Technical issues can disrupt functionality and user experience.",
+        "Market competition may make differentiation difficult.",
+        "Funding limitations can restrict development and marketing efforts."
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Building a Community Garden Initiative",
+      "startDate": "2028-09-01",
+      "risks": [
+        "Community engagement may be low, affecting participation.",
+        "Regulatory hurdles can complicate land use and permits.",
+        "Funding constraints can limit resources and supplies.",
+        "Weather-related issues can impact garden viability.",
+        "Maintenance challenges may arise if community support wanes."
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Launching a Mobile Payment Solution",
+      "startDate": "2028-10-01",
+      "risks": [
+        "High competition in the fintech space can limit market entry.",
+        "Data security breaches can undermine user trust.",
+        "Regulatory compliance can complicate product offerings.",
+        "Technical challenges may disrupt service reliability.",
+        "User adoption may be slow due to preference for traditional methods."
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Creating a Telehealth Platform",
+      "startDate": "2028-11-01",
+      "risks": [
+        "Regulatory compliance can complicate service delivery.",
+        "User trust may be hindered by concerns over privacy and data security.",
+        "Market competition can limit user acquisition and retention.",
+        "Technological challenges may disrupt service quality.",
+        "Funding limitations can restrict marketing and platform development."
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Establishing a Local Brewery",
+      "startDate": "2028-12-01",
+      "risks": [
+        "High operational costs can affect profitability.",
+        "Regulatory hurdles can delay licensing and permits.",
+        "Market competition may limit market share.",
+        "Supply chain issues can impact ingredient availability.",
+        "Community engagement is essential for brand loyalty."
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Developing a Smart Home Automation System",
+      "startDate": "2029-01-01",
+      "risks": [
+        "Rapid technological changes may require frequent updates.",
+        "User privacy concerns can limit market acceptance.",
+        "Integration issues with existing home devices may arise.",
+        "High competition can make differentiation difficult.",
+        "Funding constraints may hinder product development and marketing."
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Launching a Plant-Based Food Brand",
+      "startDate": "2029-02-01",
+      "risks": [
+        "Market competition may limit brand visibility.",
+        "Consumer preferences can shift quickly.",
+        "Supply chain disruptions can impact ingredient sourcing.",
+        "Regulatory compliance can complicate product development.",
+        "Funding limitations may restrict marketing efforts."
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Creating a Virtual Reality Gaming Platform",
+      "startDate": "2029-03-01",
+      "risks": [
+        "High development costs can impact profitability.",
+        "Market acceptance may be slow due to hardware limitations.",
+        "Intense competition can make user acquisition challenging.",
+        "Technical issues can disrupt user experience.",
+        "Funding shortfalls may limit content development."
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Building an Online Marketplace for Handmade Goods",
+      "startDate": "2029-04-01",
+      "risks": [
+        "High competition can limit seller engagement.",
+        "Logistical challenges may affect order fulfillment.",
+        "Market fluctuations can impact pricing and sales.",
+        "User trust issues may arise concerning product quality.",
+        "Funding constraints can restrict marketing and platform enhancements."
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Developing a Smart Fitness Tracker",
+      "startDate": "2029-05-01",
+      "risks": [
+        "Rapid technological advancements can make products obsolete.",
+        "User privacy concerns can hinder adoption.",
+        "Market competition may complicate differentiation.",
+        "Technical issues can disrupt functionality and user experience.",
+        "Funding limitations may restrict marketing and R&D efforts."
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Establishing a Mobile Car Wash Service",
+      "startDate": "2029-06-01",
+      "risks": [
+        "High operational costs can affect profitability.",
+        "Market competition may limit customer acquisition.",
+        "Logistical challenges can impact service delivery.",
+        "Seasonal fluctuations can affect demand.",
+        "Customer retention may be challenging without unique offerings."
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Launching a Social Media Management Tool",
+      "startDate": "2029-07-01",
+      "risks": [
+        "Intense market competition can limit user growth.",
+        "Rapid changes in social media algorithms may complicate functionality.",
+        "User trust issues may arise regarding data handling.",
+        "Technical challenges can disrupt service reliability.",
+        "Funding limitations can restrict product enhancements and marketing."
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Creating a Digital Publishing Platform",
+      "startDate": "2029-08-01",
+      "risks": [
+        "Market saturation can limit user engagement.",
+        "Content quality issues may lead to negative feedback.",
+        "Technical challenges can disrupt platform functionality.",
+        "Legal issues regarding copyright may arise.",
+        "Funding constraints may restrict marketing efforts."
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Establishing a Drone Delivery Service",
+      "startDate": "2029-09-01",
+      "risks": [
+        "Regulatory challenges may delay service rollout.",
+        "Technical issues can disrupt delivery operations.",
+        "Market acceptance may be slow due to safety concerns.",
+        "High operational costs can impact profitability.",
+        "Competition from established delivery services may be fierce."
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Launching a Custom Clothing Line",
+      "startDate": "2029-10-01",
+      "risks": [
+        "High competition can limit market share.",
+        "Supply chain disruptions can affect production schedules.",
+        "Consumer trends can shift rapidly, impacting sales.",
+        "Marketing costs may escalate to reach target audiences.",
+        "Funding limitations can restrict product development and expansion."
+      ]
+    },
+    {
+      "id": 71,
+      "name": "Developing an AI-Powered Customer Support Chatbot",
+      "startDate": "2029-11-01",
+      "risks": [
+        "Integration challenges with existing systems may arise.",
+        "User acceptance may be slow due to trust issues.",
+        "Rapid advancements in AI technology may lead to obsolescence.",
+        "High development costs can impact budget.",
+        "Data privacy regulations may complicate implementation."
+      ]
+    },
+    {
+      "id": 72,
+      "name": "Launching a Sustainable Clothing Subscription Service",
+      "startDate": "2029-12-01",
+      "risks": [
+        "Market competition may limit subscriber growth.",
+        "Consumer preferences can shift, affecting retention.",
+        "Logistical challenges can disrupt delivery schedules.",
+        "Supply chain issues may impact inventory availability.",
+        "Funding limitations may restrict marketing efforts."
+      ]
+    },
+    {
+      "id": 73,
+      "name": "Creating an Online Learning Platform",
+      "startDate": "2030-01-01",
+      "risks": [
+        "High competition may limit user acquisition.",
+        "Content quality issues may lead to negative reviews.",
+        "Technical challenges can disrupt user experience.",
+        "Regulatory compliance may complicate operations.",
+        "Funding constraints may restrict marketing and platform enhancements."
+      ]
+    },
+    {
+      "id": 74,
+      "name": "Establishing a Home Renovation Service",
+      "startDate": "2030-02-01",
+      "risks": [
+        "High operational costs can affect profitability.",
+        "Market competition may limit customer acquisition.",
+        "Logistical challenges can disrupt project timelines.",
+        "Regulatory compliance may complicate project execution.",
+        "Customer trust issues may arise regarding quality of work."
+      ]
+    },
+    {
+      "id": 75,
+      "name": "Launching a Virtual Fitness Training Program",
+      "startDate": "2030-03-01",
+      "risks": [
+        "Market saturation may limit subscriber growth.",
+        "User retention can be challenging without engagement.",
+        "Technical issues may disrupt streaming quality.",
+        "High competition can make differentiation difficult.",
+        "Funding limitations may restrict marketing and content development."
+      ]
+    },
+    {
+      "id": 76,
+      "name": "Creating an Organic Skincare Line",
+      "startDate": "2030-04-01",
+      "risks": [
+        "High competition can limit market penetration.",
+        "Regulatory compliance may complicate product formulation.",
+        "Consumer trust issues may arise regarding ingredient sourcing.",
+        "Supply chain disruptions can affect product availability.",
+        "Marketing costs may escalate to reach target audiences."
+      ]
+    },
+    {
+      "id": 77,
+      "name": "Developing an E-Sports Tournament Platform",
+      "startDate": "2030-05-01",
+      "risks": [
+        "Intense competition can limit user growth.",
+        "Technical issues may disrupt tournament operations.",
+        "User trust issues may arise regarding fairness.",
+        "Market acceptance may be slow due to unfamiliarity.",
+        "Funding limitations may restrict marketing efforts."
+      ]
+    },
+    {
+      "id": 78,
+      "name": "Establishing a Mobile App for Personal Finance",
+      "startDate": "2030-06-01",
+      "risks": [
+        "Market competition may limit user acquisition.",
+        "User privacy concerns can hinder adoption.",
+        "Technical issues can disrupt app functionality.",
+        "Rapid changes in financial regulations may complicate operations.",
+        "Funding limitations can restrict marketing and development."
+      ]
+    },
+    {
+      "id": 79,
+      "name": "Launching a Niche Travel Agency",
+      "startDate": "2030-07-01",
+      "risks": [
+        "High competition can limit market share.",
+        "Consumer preferences can shift quickly.",
+        "Logistical challenges can affect service delivery.",
+        "Economic downturns may impact travel demand.",
+        "Funding constraints may restrict marketing efforts."
+      ]
+    },
+    {
+      "id": 80,
+      "name": "Creating a Podcast Production Company",
+      "startDate": "2030-08-01",
+      "risks": [
+        "Market saturation can limit listener growth.",
+        "Content quality issues may lead to negative feedback.",
+        "Competition from established producers can be fierce.",
+        "Monetization challenges may affect profitability.",
+        "Funding limitations may restrict marketing and production quality."
+      ]
+    },
+    {
+      "id": 81,
+      "name": "Launching a Subscription-Based Meal Kit Service",
+      "startDate": "2030-09-01",
+      "risks": [
+        "High competition can limit subscriber growth.",
+        "Supply chain issues may disrupt ingredient sourcing.",
+        "Consumer preferences may shift, affecting retention.",
+        "Logistical challenges can hinder timely deliveries.",
+        "Marketing costs may escalate to attract new customers."
+      ]
+    },
+    {
+      "id": 82,
+      "name": "Developing a Smart Home Automation System",
+      "startDate": "2030-10-01",
+      "risks": [
+        "Rapid technological changes may outpace product development.",
+        "Integration issues with existing devices may arise.",
+        "Consumer adoption rates can be unpredictable.",
+        "Data security concerns may deter potential users.",
+        "High development costs can impact profitability."
+      ]
+    },
+    {
+      "id": 83,
+      "name": "Creating an Online Art Marketplace",
+      "startDate": "2030-11-01",
+      "risks": [
+        "Market saturation may limit artist sign-ups.",
+        "Quality control issues can affect platform reputation.",
+        "Competition from established platforms can be intense.",
+        "User acquisition may require significant marketing investment.",
+        "Technical issues can disrupt user experience."
+      ]
+    },
+    {
+      "id": 84,
+      "name": "Launching a Digital Marketing Agency",
+      "startDate": "2030-12-01",
+      "risks": [
+        "High competition can limit client acquisition.",
+        "Client retention may be challenging without results.",
+        "Rapid changes in digital marketing trends may require constant adaptation.",
+        "Funding limitations may restrict staffing and resources.",
+        "Reputation risks from unsuccessful campaigns can harm growth."
+      ]
+    },
+    {
+      "id": 85,
+      "name": "Establishing a Local Organic Farm",
+      "startDate": "2031-01-01",
+      "risks": [
+        "Climate change may impact crop yields.",
+        "Market competition can limit sales opportunities.",
+        "Regulatory compliance may complicate operations.",
+        "Consumer trust issues may arise regarding organic certification.",
+        "High operational costs can affect profitability."
+      ]
+    },
+    {
+      "id": 86,
+      "name": "Creating a Virtual Reality Travel Experience",
+      "startDate": "2031-02-01",
+      "risks": [
+        "Technological challenges may hinder user experience.",
+        "Market acceptance may be slow due to unfamiliarity.",
+        "High production costs can impact profitability.",
+        "Competition from other entertainment options can be fierce.",
+        "User privacy concerns may arise with data collection."
+      ]
+    },
+    {
+      "id": 87,
+      "name": "Launching a Sustainable Furniture Line",
+      "startDate": "2031-03-01",
+      "risks": [
+        "High competition may limit market penetration.",
+        "Supply chain disruptions can affect materials availability.",
+        "Consumer preferences may shift, impacting demand.",
+        "Regulatory compliance may complicate production.",
+        "Marketing costs may escalate to reach target audiences."
+      ]
+    },
+    {
+      "id": 88,
+      "name": "Developing a Social Networking App for Professionals",
+      "startDate": "2031-04-01",
+      "risks": [
+        "User acquisition may be challenging in a saturated market.",
+        "User engagement can decline without consistent value.",
+        "Technical issues can disrupt platform usability.",
+        "Privacy concerns may hinder user registration.",
+        "Monetization strategies may face resistance from users."
+      ]
+    },
+    {
+      "id": 89,
+      "name": "Creating a Health and Wellness Retreat",
+      "startDate": "2031-05-01",
+      "risks": [
+        "Market competition can limit customer acquisition.",
+        "Economic downturns may impact travel budgets.",
+        "Logistical challenges can disrupt service delivery.",
+        "Staffing issues can affect service quality.",
+        "Regulatory compliance may complicate operations."
+      ]
+    },
+    {
+      "id": 90,
+      "name": "Launching an Educational Toy Line",
+      "startDate": "2031-06-01",
+      "risks": [
+        "High competition can limit market share.",
+        "Consumer preferences may shift quickly.",
+        "Supply chain disruptions may affect inventory availability.",
+        "Regulatory compliance can complicate product development.",
+        "Marketing costs may escalate to attract target audiences."
+      ]
+    },
+    {
+      "id": 91,
+      "name": "Creating a Customizable Skincare Line",
+      "startDate": "2031-07-01",
+      "risks": [
+        "High competition may limit brand visibility.",
+        "Ingredient sourcing may face regulatory challenges.",
+        "Consumer trends may shift, affecting demand.",
+        "Marketing costs may escalate to build awareness.",
+        "Product quality issues can harm brand reputation."
+      ]
+    },
+    {
+      "id": 92,
+      "name": "Launching a Mobile Payment App",
+      "startDate": "2031-08-01",
+      "risks": [
+        "Regulatory compliance may complicate operations.",
+        "User trust in security may be hard to establish.",
+        "Market competition can be intense and challenging.",
+        "Technological challenges may affect user experience.",
+        "Funding limitations can restrict feature development."
+      ]
+    },
+    {
+      "id": 93,
+      "name": "Developing a Personalized Nutrition Platform",
+      "startDate": "2031-09-01",
+      "risks": [
+        "Data privacy concerns may hinder user registration.",
+        "Competition from established platforms can be strong.",
+        "User engagement may be challenging without consistent value.",
+        "Technological issues can disrupt service delivery.",
+        "Funding limitations may restrict growth opportunities."
+      ]
+    },
+    {
+      "id": 94,
+      "name": "Creating a Boutique Fitness Studio",
+      "startDate": "2031-10-01",
+      "risks": [
+        "Market saturation may limit membership growth.",
+        "Staffing challenges can affect service quality.",
+        "Economic downturns may impact discretionary spending.",
+        "Competition from larger chains can be fierce.",
+        "High operational costs may affect profitability."
+      ]
+    },
+    {
+      "id": 95,
+      "name": "Launching a Mobile Gardening App",
+      "startDate": "2031-11-01",
+      "risks": [
+        "User acquisition may be challenging in a crowded market.",
+        "Technology adoption rates may vary among users.",
+        "Technical issues can disrupt user experience.",
+        "Market trends may shift, affecting relevance.",
+        "Funding limitations can restrict feature development."
+      ]
+    },
+    {
+      "id": 96,
+      "name": "Establishing a Co-Working Space",
+      "startDate": "2031-12-01",
+      "risks": [
+        "High competition can limit occupancy rates.",
+        "Economic fluctuations may affect demand.",
+        "Logistical challenges can complicate operations.",
+        "Staffing issues can impact service quality.",
+        "Marketing costs may escalate to attract tenants."
+      ]
+    },
+    {
+      "id": 97,
+      "name": "Creating a Mental Health App",
+      "startDate": "2032-01-01",
+      "risks": [
+        "User trust may be hard to establish due to privacy concerns.",
+        "Market competition can be intense with existing solutions.",
+        "Regulatory compliance may complicate operations.",
+        "User engagement can fluctuate without continuous content.",
+        "Funding limitations may restrict marketing efforts."
+      ]
+    },
+    {
+      "id": 98,
+      "name": "Launching a Virtual Reality Fitness Game",
+      "startDate": "2032-02-01",
+      "risks": [
+        "High development costs can impact profitability.",
+        "User acceptance of VR technology may vary.",
+        "Competition from established gaming companies can be fierce.",
+        "Technical challenges may hinder product launch.",
+        "Marketing efforts may require substantial investment."
+      ]
+    },
+    {
+      "id": 99,
+      "name": "Developing a Sustainable Fashion Brand",
+      "startDate": "2032-03-01",
+      "risks": [
+        "Market competition can limit visibility.",
+        "Consumer awareness of sustainability issues may vary.",
+        "Supply chain disruptions may affect material sourcing.",
+        "Regulatory compliance can complicate production.",
+        "High marketing costs may be necessary to build brand recognition."
+      ]
+    },
+    {
+      "id": 100,
+      "name": "Creating a Digital Learning Platform for Kids",
+      "startDate": "2032-04-01",
+      "risks": [
+        "User acquisition may be challenging in a crowded market.",
+        "Content quality issues can affect user retention.",
+        "Regulatory compliance for educational content may be complex.",
+        "Technological challenges can disrupt learning experiences.",
+        "Funding limitations may restrict platform features."
+      ]
+    }
+  ]
+}
+
